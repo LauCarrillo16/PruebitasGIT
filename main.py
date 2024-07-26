@@ -4,3 +4,4 @@ suma = a + b
 a =2
 b=1
 print(suma)
+print("miercoles")
